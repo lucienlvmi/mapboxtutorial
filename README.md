@@ -1,2 +1,5 @@
 # mapboxtutorial
-mapbox tutorial 
+
+in client side:
+
+npm install mapbox-gl 
